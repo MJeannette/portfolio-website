@@ -23,7 +23,6 @@ nav{
     background-repeat: no-repeat;
     background-size: cover;
     background-image:url(https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252__340.jpg);
-    display:flex;
     align-items:center;
     flex-direction:column;
 
@@ -38,6 +37,7 @@ ul>li>a:hover{
    font-size:30px;
    font-family:Helvetica;
    background-color:grey;
+   text-align:center; 
    
 }
 h2,h2,h3,h4,h5,h6{
@@ -55,6 +55,11 @@ h7{
    font-family:sans-serif;
    font-weight:bold;
    text-decoration:none;
+
+}
+.hobbies{
+   font-size:30px;
+
 }
    
 
@@ -65,15 +70,19 @@ h7{
    font-family:Helvetica;
    color:purple;
 }
+#projects{
+   text-decoration:none;
+   font-size:30px;
+   
+}
 footer{
    text-shadow:2px 2px 5px rgb(255,165,0);
    padding:10px;
-   display:flex;
-
-   border:1px solid green;
-   text-align:center;
-}
-footer p{
+   display: flex;
+   justify-content: space-around;
+   border:1px solid green;  
+}  
+footer>p{
    display:inline-block;
 }
    
