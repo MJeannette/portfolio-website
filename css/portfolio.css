@@ -40,7 +40,7 @@ ul>li>a:hover{
    text-align:center; 
    
 }
-h2,h2,h3,h4,h5,h6{
+h2,h3,h4,h5,h6{
    color:blueviolet;
    font-size:40px;
    font-style:italic;
@@ -71,22 +71,16 @@ h7{
    font-weight:bold;
    font-family:sans-serif;
 }
-
-
-
-   
-
+#projects{
+   text-decoration:none;
+   font-size:30px;
+}
 #contact{
    border:10px solid goldenrod;
    text-align:left;
    font-size:30px;
    font-family:Helvetica;
    color:purple;
-}
-#projects{
-   text-decoration:none;
-   font-size:30px;
-   
 }
 footer{
    text-shadow:2px 2px 5px rgb(255,165,0);
@@ -97,6 +91,8 @@ footer{
 }  
 footer>p{
    display:inline-block;
+   font-size:30px;
+   font-weight:bold;
 }
    
   
