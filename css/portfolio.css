@@ -36,9 +36,27 @@ ul>li>a:hover{
    border:40px solid goldenrod;
    text-align:center;
    font-size:30px;
-   font-family:Helvetica;
+   font-family:Helvetica
    
 }
+h2,h2,h3,h4,h5,h6{
+   color:blueviolet;
+   font-size:40px;
+   font-style:italic;
+   font-family:sans-serif;
+   font-weight:bold;
+   text-decoration:underline;
+}
+h7{
+   color:blueviolet;
+   font-size:40px;
+   font-style:italic;
+   font-family:sans-serif;
+   font-weight:bold;
+   text-decoration:none;
+}
+   
+
 #contact{
    border:10px solid goldenrod;
    text-align:left;

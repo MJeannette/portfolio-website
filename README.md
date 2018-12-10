@@ -1,6 +1,6 @@
-# {Portfolio project}
-#### {Names,Education background,Hobbies,Projects and contacts}, {10th Deecember 2018}
-#### By **{Jeannette MUKANDAYISENGA}**
+# Portfolio project
+#### Names,Education background,Hobbies,Projects and contacts, 10th Deecember 2018
+#### By **Jeannette MUKANDAYISENGA**
 ## Description
 This project includes details about my education background, my hobbies,the projects I created in GitHub and their corresponding links so that every body can access them and my contact for further information.
 ## Setup/Installation Requirements
@@ -8,7 +8,7 @@ This project includes details about my education background, my hobbies,the proj
 * Internet access
 * GitHub link (https://github.com/MJeannette/portfolio-website.git)
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+This project still need much improvement on css properties in order to be better.
 ## Technologies Used
 During this project,I use HTML in order to create this project.I also use CSS properties to style this project.
 ## Support and contact details
