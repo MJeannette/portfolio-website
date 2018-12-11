@@ -6,7 +6,7 @@ This project includes details about my education background, my hobbies,the proj
 ## Setup/Installation Requirements
 * computer or smartphone is required
 * Internet access
-* GitHub link (https://github.com/MJeannette/portfolio-website.git)
+* gh-pages link (https://mjeannette.github.io/portfolio-website/
 ## Known Bugs
 This project still need much improvement on css properties in order to be better.
 ## Technologies Used
@@ -15,5 +15,5 @@ During this project,I use HTML in order to create this project.I also use CSS pr
 For any issues,questions,ideas or concerns feel free to contact me via email:mndayisenga2015.s@gmail.com in order to help me to know what is missing in my project and What I have to improve in order to make a good project.
 ### License
 *This project can be licensed under MIT*
-Copyright (c) 2018 **Wecode program in Moringa school**
+Copyright (c) 2018 **Wecode program under Moringa school**
   
